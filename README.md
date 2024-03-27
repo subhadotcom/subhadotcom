@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/subhadipghosh76" target="blank"><img src="https://img.shields.io/twitter/follow/subhadipghosh76?logo=twitter&style=for-the-badge" alt="subhadipghosh76" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://subhadipghoshportfolio.netlify.app/](https://subhadipghoshportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://subhadipghosh.netlify.app/](https://subhadipghosh.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, SQL**
 
 - 📫 How to reach me **subhadipghosh@outlook.in**
 
-- 📄 Know about my experiences [https://subhadipghoshportfolio.netlify.app/](https://subhadipghoshportfolio.netlify.app/)
+- 📄 Know about my experiences [https://subhadipghoshportfolio.netlify.app/](https://subhadipghosh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
