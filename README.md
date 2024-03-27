@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **subhadipghosh@outlook.in**
 
-- 📄 Know about my experiences [https://subhadipghoshportfolio.netlify.app/](https://subhadipghosh.netlify.app/)
+- 📄 Know about my experiences [https://subhadipghosh.netlify.app/](https://subhadipghosh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
