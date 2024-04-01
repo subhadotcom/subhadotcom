@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developersubha" alt="developersubha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/subhadipghosh76" target="blank"><img src="https://img.shields.io/twitter/follow/subhadipghosh76?logo=twitter&style=for-the-badge" alt="subhadipghosh76" /></a> </p>
+<p align="left"> <a href="https://twitter.com/developersubha" target="blank"><img src="https://img.shields.io/twitter/follow/developersubha?logo=twitter&style=for-the-badge" alt="developersubha" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](subhadipghosh.netlify.app)
 
@@ -18,11 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/subhadipghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="subhadipghosh" height="30" width="40" /></a>
-<a href="https://twitter.com/subhadipghosh76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadipghosh76" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhadipghosh76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadipghosh76" height="30" width="40" /></a>
+<a href="https://twitter.com/developersubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developersubha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/developersubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developersubha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22170873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22170873" height="30" width="40" /></a>
 <a href="https://instagram.com/subhadipghosh_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhadipghosh_76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhadipghosh76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhadipghosh76" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/developersubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developersubha" height="30" width="40" /></a>
 <a href="https://discord.gg/ZGsxgGgX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZGsxgGgX" height="30" width="40" /></a>
 </p>
 
