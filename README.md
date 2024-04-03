@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/developersubha" target="blank"><img src="https://img.shields.io/twitter/follow/developersubha?logo=twitter&style=for-the-badge" alt="developersubha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](subhadipghosh.netlify.app)
+- 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
-- 📝 I regularly write articles on [thecommonprogramming.blogspot.com](thecommonprogramming.blogspot.com)
+- 📝 I regularly write articles on [thecommonprogramming.blogspot.com](https://thecommonprogramming.blogspot.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, SQL**
 
