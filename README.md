@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [thecommonprogramming.blogspot.com](https://thecommonprogramming.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, SQL, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, SQL, PHP**
 
 - 📫 How to reach me **subhadipghosh@outlook.in**
 
