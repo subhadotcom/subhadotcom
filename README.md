@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
-- 📝 I regularly write articles on [thecommonprogramming.blogspot.com](https://thecommonprogramming.blogspot.com/)
+- 📝 I regularly write articles on [developersubha.medium.com](https://developersubha.medium.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, SQL, PHP**
 
