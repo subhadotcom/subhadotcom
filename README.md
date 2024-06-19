@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexsubha&title=Commits,Repositories,Experience,Followers,PullRequest,Issues&no-frame=true&theme=tokyonight" alt="codexsubha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/developersubha" target="blank"><img src="https://img.shields.io/twitter/follow/developersubha?logo=twitter&style=for-the-badge" alt="developersubha" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
 - 📝 I regularly write articles on [developersubha.medium.com](https://developersubha.medium.com/)
