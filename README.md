@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subahdip Ghosh</h1>
 <h3 align="center">Full Stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexsubha&label=Profile%20views&color=0e75b6&style=flat" alt="codexsubha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadotcom&label=Profile%20views&color=0e75b6&style=flat" alt="subhadotcom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexsubha&title=Commits,Repositories,Experience,Followers,PullRequest,Issues&no-frame=true&theme=tokyonight" alt="codexsubha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadotcom&title=Commits,Repositories,Experience,Followers,PullRequest,Issues&no-frame=true&theme=tokyonight" alt="subhadotcom" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhadipdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadipdotcom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codexsubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codexsubha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhadotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadotcom" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22170873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22170873" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/developersubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developersubha" height="30" width="40" /></a>
 </p>
@@ -37,11 +37,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexsubha&show_icons=true&locale=en&layout=compact" alt="codexsubha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadotcom&show_icons=true&locale=en&layout=compact" alt="subhadotcom" /></p>
 
-<p>&nbsp;<img align="center" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api?username=codexsubha&show_icons=true&locale=en" alt="codexsubha" /></p>
+<p>&nbsp;<img align="center" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api?username=subhadotcom&show_icons=true&locale=en" alt="subhadotcom" /></p>
 
-<p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=codexsubha&" alt="codexsubha" /></p>
+<p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadotcom&" alt="subhadotcom" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/subahdip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subahdip" /></a></p><br><br>
