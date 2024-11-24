@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [developersubha.medium.com](https://developersubha.medium.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, SQL**
+- 💬 Ask me about **HTML, CSS, Python, Django, SQL**
 
 - 📫 How to reach me **subhadipghosh@outlook.in**
 
