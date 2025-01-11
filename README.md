@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadotcom&label=Profile%20views&color=0e75b6&style=flat" alt="subhadotcom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadotcom&no-frame=true&theme=tokyonight" alt="subhadotcom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadotcom&title=Commits,Repositories,Experience,Followers,PullRequest,Stars,MultiLanguage&no-frame=true&theme=tokyonight" alt="subhadotcom" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
