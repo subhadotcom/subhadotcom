@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
 
-- 📝 I regularly write articles on [developersubha.medium.com](https://developersubha.medium.com/)
-
 - 💬 Ask me about **HTML, CSS, Python, Django, SQL**
 
 - 📫 How to reach me **subhadipghosh@outlook.in**
