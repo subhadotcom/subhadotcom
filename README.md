@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, Django, SQL**
 
-- 📫 How to reach me **subhadipghosh.netlify.app**
+- 📫 How to reach me **subhadipghosh@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
