@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [subhadipghosh.co.in](https://subhadipghosh.co.in)
 
-- 💬 Ask me about **Python, SQL, Django,  HTML, CSS**
+- 💬 Ask me about **Python, SQL, Django, HTML, CSS**
 
 - 📫 How to reach me **connect@subhadipghosh.co.in**
 
