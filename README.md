@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadotcom&title=Commits,Repositories,Experience,Followers,PullRequest,Stars&no-frame=true&theme=tokyonight" alt="subhadotcom" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [subhadipghosh.netlify.app](https://subhadipghosh.netlify.app)
+- 👨‍💻 All of my projects are available at [subhadipghosh.co.in](https://subhadipghosh.co.in)
 
-- 💬 Ask me about **HTML, CSS, Python, Django, SQL**
+- 💬 Ask me about **Python, SQL, HTML, CSS, Django, Data Analysis**
 
-- 📫 How to reach me **subhadipghosh@outlook.in**
+- 📫 How to reach me **connect@subhadipghosh.co.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
