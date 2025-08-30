@@ -9,8 +9,8 @@
 
 - 💬 Ask me about **Python, SQL, HTML, CSS, Django, Data Analysis**
 
-- 📫 How to reach me [subhadipghosh.co.in](https://subhadipghosh.co.in)
-
+- 📫 How to reach me [connect.subhadipghosh.co.in](https://connect.subhadipghosh.co.in)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhadipdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadipdotcom" height="30" width="40" /></a>
