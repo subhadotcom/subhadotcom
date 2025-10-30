@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
----
 <p align="center">
   <a href="mailto:reach@subhadipghosh.co.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=google-chrome" /></a>
@@ -20,11 +19,8 @@
   <a href="https://twitter.com/subhadotcom"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 
----
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
@@ -44,14 +40,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
----
 <p><img align="left" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadotcom&show_icons=true&locale=en&layout=compact" alt="subhadotcom" /></p>
 
 <p>&nbsp;<img align="center" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api?username=subhadotcom&show_icons=true&locale=en" alt="subhadotcom" /></p>
 
 <p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadotcom&" alt="subhadotcom" /></p>
 
----
 ## 📈 GitHub Contribution Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadotcom&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" alt="subhadotcom's GitHub Activity Graph" />
