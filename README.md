@@ -38,3 +38,9 @@
 <p>&nbsp;<img align="center" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api?username=subhadotcom&show_icons=true&locale=en" alt="subhadotcom" /></p>
 
 <p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadotcom&" alt="subhadotcom" /></p>
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadotcom&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" alt="subhadotcom's GitHub Activity Graph" />
+</div>
