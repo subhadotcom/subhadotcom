@@ -14,9 +14,10 @@
 <p align="center">
   <a href="mailto:reach@subhadipghosh.co.in"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge" /></a>
   <a href="https://subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" /></a>
-  <a href="https://scriptedinsights.subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/subhadotcom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
-  <a href="https://twitter.com/subhadotcom"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" /></a>
+  <a href="https://twitter.com/subhadotcom/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" /></a>
+  <a href="https://scriptedinsights.subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge" /></a>
+  <a href="https://optivista.subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Photography-blue?style=for-the-badge" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
