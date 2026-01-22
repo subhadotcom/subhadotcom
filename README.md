@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subahdip Ghosh</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> 
   <a href="https://github.com/subhadotcom"><img src="https://komarev.com/ghpvc/?username=subhadotcom&color=blueviolet&style=for-the-badge&label=Profile+Views" /></a>
