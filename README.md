@@ -16,8 +16,6 @@
   <a href="https://subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/subhadotcom/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" /></a>
   <a href="https://twitter.com/subhadipdotcom/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" /></a>
-  <a href="https://scriptedinsights.subhadipghosh.co.in/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -44,9 +42,9 @@
 
 <p>&nbsp;<img align="center" style= "height: 140px;" src="https://github-readme-stats.vercel.app/api?username=subhadotcom&show_icons=true&locale=en" alt="subhadotcom" /></p>
 
-<p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadotcom&" alt="subhadotcom" /></p> -->
+<p><img align="center" style= "height: 140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadotcom&" alt="subhadotcom" /></p>
 
 ## 📈 GitHub Contribution Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadotcom&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" alt="subhadotcom's GitHub Activity Graph" />
-</div>
+</div> -->
